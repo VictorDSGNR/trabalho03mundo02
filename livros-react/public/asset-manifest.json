@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/missaomundo02nivel03/livros-react/static/css/main.0f085b9c.css",
+    "main.js": "/missaomundo02nivel03/livros-react/static/js/main.cf5f57cc.js",
+    "static/js/592.414741ce.chunk.js": "/missaomundo02nivel03/livros-react/static/js/592.414741ce.chunk.js",
+    "static/media/banner_ril_small.png": "/missaomundo02nivel03/livros-react/static/media/banner_ril_small.bf607ca6d93192eeaccf.png",
+    "index.html": "/missaomundo02nivel03/livros-react/index.html",
+    "main.0f085b9c.css.map": "/missaomundo02nivel03/livros-react/static/css/main.0f085b9c.css.map",
+    "main.cf5f57cc.js.map": "/missaomundo02nivel03/livros-react/static/js/main.cf5f57cc.js.map",
+    "592.414741ce.chunk.js.map": "/missaomundo02nivel03/livros-react/static/js/592.414741ce.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f085b9c.css",
+    "static/js/main.cf5f57cc.js"
+  ]
+}

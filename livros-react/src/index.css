@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.fontetitulo {
+  font-size: 2rem;
+}
+
+.fontelista {
+  font-size: 1.7rem;
+}
+
+.container-imagem {
+  background-image: url('banner_ril_small.png');
+  background-size: cover; 
+  background-position: center; 
+  padding: 5px; 
+  height: 200px;
+  text-align: center; 
+}
