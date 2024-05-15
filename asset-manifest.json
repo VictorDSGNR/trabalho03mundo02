@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/trabalho03mundo02/livros-react/static/css/main.ecf64949.css",
+    "main.js": "/trabalho03mundo02/livros-react/static/js/main.e9c73681.js",
+    "static/js/592.414741ce.chunk.js": "/trabalho03mundo02/livros-react/static/js/592.414741ce.chunk.js",
+    "static/media/banner_ril_small.png": "/trabalho03mundo02/livros-react/static/media/banner_ril_small.bf607ca6d93192eeaccf.png",
+    "index.html": "/trabalho03mundo02/livros-react/index.html",
+    "main.ecf64949.css.map": "/trabalho03mundo02/livros-react/static/css/main.ecf64949.css.map",
+    "main.e9c73681.js.map": "/trabalho03mundo02/livros-react/static/js/main.e9c73681.js.map",
+    "592.414741ce.chunk.js.map": "/trabalho03mundo02/livros-react/static/js/592.414741ce.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ecf64949.css",
+    "static/js/main.e9c73681.js"
+  ]
+}
