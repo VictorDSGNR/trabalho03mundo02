@@ -11,3 +11,20 @@
     color: black;
     padding-top: 40px;
 }
+
+.fontetitulo {
+    font-size: 2rem;
+  }
+  
+  .fontelista {
+    font-size: 1.7rem;
+  }
+  
+.container-imagem {
+    background-image: url('banner_ril_small.png');
+    background-size: cover; 
+    background-position: center; 
+    padding: 5px; 
+    height: 200px;
+    text-align: center; 
+  }

@@ -56,17 +56,19 @@ const LivroLista: NextPage = () => {
   }, []);
 
   return ( 
-  <div className="container pt-5">
+  <div className="container md-8">
     <Head>
         <title>Catálogo</title>
     </Head> 
-    <table className="table table-striped">
+     
+    <table className="table table-info">
+    <section className="container-imagem"></section>   
       <thead className="table-dark">
         <tr>
-          <th>Título</th>
-          <th>Resumo</th>
-          <th>Editora</th>
-          <th>Autores</th>
+        <th className="fontetitulo">Título</th>
+        <th className="fontetitulo">Resumo</th>
+        <th className="fontetitulo">Editora</th>
+        <th className="fontetitulo">Autores</th>
         </tr>
       </thead>
       <tbody>
