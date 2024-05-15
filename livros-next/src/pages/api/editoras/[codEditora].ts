@@ -1,4 +1,4 @@
-// pages/api/editoras/[codEditora].ts
+
 import { NextApiRequest, NextApiResponse } from 'next';
 import { controleEditora } from '.';
 
